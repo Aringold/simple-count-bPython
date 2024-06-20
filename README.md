@@ -8,7 +8,7 @@
   <img src="blockchain-simulation.gif">
 </div>
 
-The github repository contains a basic implementation of a blockchain and its client using Python. This blockchain has the following features:
+The github repository contains a basic implementation of the blockchain and its client using Python. This blockchain has the following features:
 
 - Possibility of adding multiple nodes to the blockchain
 - Proof of Work (PoW)
