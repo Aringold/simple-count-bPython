@@ -28,7 +28,6 @@ from Crypto.Signature import PKCS1_v1_5
 import requests
 from flask import Flask, jsonify, request, render_template
 
-
 class Transaction:
 
     def __init__(self, sender_address, sender_private_key, recipient_address, value):
